@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Zorroware</title>
+    <link>https://examplesite.com/</link>
+    <description>Recent content on Zorroware</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Welcome to the Zorroware blog!</title>
+      <link>https://examplesite.com/posts/welcome/</link>
+      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/posts/welcome/</guid>
+      <description>This is where the Zorroware team will post updates, tutorials, and other content.</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://examplesite.com/about/</link>
+      <pubDate>Thu, 17 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://examplesite.com/about/</guid>
+      <description>Welcome to our about page! Thanks for showing interest.
+Zorroware is a group of open-source software developers focused on quality. The name derives from the Spanish word for fox- &amp;ldquo;zorro.&amp;rdquo;
+The Team:  Reperak, founder and owner ZtereoHYPE, member  Our Projects:  Initium, a Discord bot template written in Java  </description>
+    </item>
+    
+    
+    
+  </channel>
+</rss>
