@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Posts on Zorroware</title>
-    <link>https://examplesite.com/posts/</link>
+    <link>https://zorroware.github.io/posts/</link>
     <description>Recent content in Posts on Zorroware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 18 Jun 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zorroware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Welcome to the Zorroware blog!</title>
-      <link>https://examplesite.com/posts/welcome/</link>
+      <link>https://zorroware.github.io/posts/welcome/</link>
       <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://examplesite.com/posts/welcome/</guid>
+      <guid>https://zorroware.github.io/posts/welcome/</guid>
       <description>This is where the Zorroware team will post updates, tutorials, and other content.</description>
     </item>
     

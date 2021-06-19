@@ -2,28 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://examplesite.com/posts/</loc>
+    <loc>https://zorroware.github.io/posts/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/</loc>
+    <loc>https://zorroware.github.io/tags/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/posts/welcome/</loc>
+    <loc>https://zorroware.github.io/posts/welcome/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/</loc>
+    <loc>https://zorroware.github.io/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/tags/zorroware/</loc>
+    <loc>https://zorroware.github.io/tags/zorroware/</loc>
     <lastmod>2021-06-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/about/</loc>
+    <loc>https://zorroware.github.io/about/</loc>
     <lastmod>2021-06-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://examplesite.com/archives/</loc>
+    <loc>https://zorroware.github.io/archives/</loc>
   </url><url>
-    <loc>https://examplesite.com/categories/</loc>
+    <loc>https://zorroware.github.io/categories/</loc>
   </url><url>
-    <loc>https://examplesite.com/search/</loc>
+    <loc>https://zorroware.github.io/search/</loc>
   </url>
 </urlset>
