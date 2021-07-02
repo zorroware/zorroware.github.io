@@ -20,8 +20,8 @@ outputs:
 
 params:
     title: Zorroware
-    description: "Zorroware's Website"
-    DateFormat: "January 2, 2006"
+    description: "The website of Zorroware, a team of developers providing high-quality free and open-source software"
+    keywords: [discord bot template, foss, github, initium, java, open source, python, reperak, reperakpro, zorroware]
     defaultTheme: dark # dark, light
     disableThemeToggle: false
 
