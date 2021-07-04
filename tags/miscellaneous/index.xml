@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Posts on Zorroware</title>
-    <link>https://zorroware.github.io/posts/</link>
-    <description>Recent content in Posts on Zorroware</description>
+    <title>miscellaneous on Zorroware</title>
+    <link>https://zorroware.github.io/tags/miscellaneous/</link>
+    <description>Recent content in miscellaneous on Zorroware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zorroware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zorroware.github.io/tags/miscellaneous/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Optimized dd Command For Drives</title>
       <link>https://zorroware.github.io/posts/optimized-dd/</link>
@@ -14,15 +14,6 @@
       <guid>https://zorroware.github.io/posts/optimized-dd/</guid>
       <description>The Actual Command dd if=INPUT of=OUTPUT bs=128k oflag=direct status=progress Explanation The flags used in the custom command are optimized for speed and correctness. It bypasses the kernel cache and uses a large block size to get performance that usually outperforms dd&amp;rsquo;s defaults.
 oflag=direct makes dd use direct I/O, avoiding the cache entirely, ensuring that bytes are written immediately. This flag almost always hurts performance tremendously, however setting a large block size fixes this issue, and in many cases makes it even faster than with the cache.</description>
-    </item>
-    
-    <item>
-      <title>Welcome to the Zorroware blog!</title>
-      <link>https://zorroware.github.io/posts/welcome/</link>
-      <pubDate>Fri, 18 Jun 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://zorroware.github.io/posts/welcome/</guid>
-      <description>This is where the Zorroware team will post updates, tutorials, and other content.</description>
     </item>
     
   </channel>
