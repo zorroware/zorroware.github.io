@@ -5,7 +5,19 @@
     <link>https://zorroware.github.io/posts/</link>
     <description>Recent content in Posts on Zorroware</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 04 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zorroware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 31 Jul 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zorroware.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximizing Your Monero Mining Profits</title>
+      <link>https://zorroware.github.io/posts/zorroware-xmrig/</link>
+      <pubDate>Sat, 31 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zorroware.github.io/posts/zorroware-xmrig/</guid>
+      <description>Introduction Looking to maximize your Monero mining profits? This guide will show you how to increase your earnings using the Zorroware XMRig fork and MoneroOcean&amp;rsquo;s algorithm switching.
+Setting up Zorroware&amp;rsquo;s XMRig fork Using Linux is recommended, as many of Zorroware XMRig&amp;rsquo;s performance advantages are not available on other platforms.
+Support for our fork will not be guaranteed from the XMRig developers or MoneroOcean.
+Downloading Clone the Git repository using the following command, or download it as a ZIP.</description>
+    </item>
+    
     <item>
       <title>Optimized dd Command For Drives</title>
       <link>https://zorroware.github.io/posts/optimized-dd/</link>
